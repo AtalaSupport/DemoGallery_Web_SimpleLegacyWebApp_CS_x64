@@ -7,7 +7,7 @@ NOTE: These controls are still supported in 2026.2 but are considered "legacy" t
 
 Please consider moving to our modern WebDocumentViewer (with or without WebDocumentThumbnailer).
 
-You can find a full tutorial in our KnowledgeBase
+You can find a full tutorial in our KnowledgeBase  
 [INFO: WebDocumentViewer Whitepaper - Getting Started With Web Viewing](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing)
 
 ### WARNING ABOUT LEGACY WEB CONTROLS
